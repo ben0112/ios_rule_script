@@ -1,6 +1,6 @@
-# NAME: Parsec
 # AUTHOR: ben0112
 # REPO: https://github.com/ben0112/ios_rule_script
+# Parsec
 DOMAIN,kessel-ws.parsec.app
 DOMAIN,kessel-api.parsec.app
 DOMAIN,builds.parsec.app
@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,parsecusercontent.com
 IP-CIDR,52.86.26.213/32,DIRECT,no-resolve
 IP-CIDR,35.169.37.243/32,DIRECT,no-resolve
 IP-CIDR,3.228.228.84/32,DIRECT,no-resolve
+# Plex
+DOMAIN-SUFFIX,plex.tv
