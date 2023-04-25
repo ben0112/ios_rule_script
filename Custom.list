@@ -4,6 +4,7 @@
 # Plex
 DOMAIN-SUFFIX,plex.tv
 PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server
+PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Script Host
 
 # Home
 DOMAIN-SUFFIX,home.arpa
